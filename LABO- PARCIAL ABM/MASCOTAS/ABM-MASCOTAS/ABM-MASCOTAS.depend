@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1622038141 source:c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+	"fecha.h"
+	"informes.h"
+
+1622031556 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\mascotas.h
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1622031761 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\tipo.h
+
+1622031125 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\color.h
+
+1622031017 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\cliente.h
+
+1622031660 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\servicio.h
+
+1622031865 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\trabajo.h
+	"fecha.h"
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"cliente.h"
+
+1622031195 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\fecha.h
+
+1622034845 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\informes.h
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+	"trabajo.h"
+
+1622037205 source:c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+	"dataStore.h"
+	"validaciones.h"
+	"cliente.h"
+
+1622035837 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\datastore.h
+	"fecha.h"
+
+1622031973 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\validaciones.h
+	"fecha.h"
+
+1622036840 source:c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+	"trabajo.h"
+
+1622036886 source:c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+
+1622037194 source:c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+	"dataStoreTrabajo.h"
+	"validaciones.h"
+
+1622032281 c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\datastoretrabajo.h
+	"fecha.h"
+
+1622031945 source:c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+	"fecha.h"
+
+1622032641 source:c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1622032847 source:c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+
+1622036040 source:c:\users\mayre\desktop\labo- parcial abm\mascotas\abm-mascotas\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"informes.h"
+	"validaciones.h"
+
